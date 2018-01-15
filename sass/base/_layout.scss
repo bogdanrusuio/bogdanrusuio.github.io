@@ -55,14 +55,17 @@ body {
     @media only screen and (min-width: 480px) {
       padding-left: $pad-narrow;
       padding-right: $pad-narrow;
+      
     }
     @media only screen and (min-width: 768px) {
       padding-left: $pad-medium;
       padding-right: $pad-medium;
+      
     }
     @media only screen and (min-width: 992px) {
       padding-left: $pad-wide;
       padding-right: $pad-wide;
+      
     }
   }
   div.pagination {
@@ -136,6 +139,8 @@ body.sidebar-footer {
   #main {
     padding: 0;
     margin: 0 auto;
+     height: -webkit-fill-available;
+      height: -moz-available;
   }
   #content {
     overflow: visible;
