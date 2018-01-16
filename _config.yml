@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:bogdanrusu.io@yahoo.com
+email: bogdanrusu.io@yahoo.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -47,7 +47,7 @@ twitter:
 
 facebook:
   app_id:              1976142619265113              # For a nicer (no js) sharing experience
-  profile_id:                        # For follow button or profile link
+#  profile_id:                        # For follow button or profile link
   action:              like          # Or recommend
   share:               false         # Also add a share button
   layout:              button        # Choices: standard, box_count, button_count, button
