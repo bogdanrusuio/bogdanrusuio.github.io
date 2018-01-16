@@ -29,6 +29,11 @@ email: bogdanrusu.io@yahoo.com
 
 gems:
   - octopress-social
+#  - jekyll-multiple-languages-plugin
+
+
+#languages: ["en","ro"]
+#exclude_from_localizations: ["javascript", "images", "css"]
 
 twitter:
   username:            bogdanrusublog                   # Add your Twitter handle
