@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://bogdanrusu.io/sitemap.xml 
+Sitemap: https://bogdanrusu.io/sitemap.xml 
