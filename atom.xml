@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Bogdan's Blog]]></title>
-  <link href="http://bogdanrusuio.github.io/atom.xml" rel="self"/>
-  <link href="http://bogdanrusuio.github.io/"/>
-  <updated>2018-01-16T09:06:40+02:00</updated>
-  <id>http://bogdanrusuio.github.io/</id>
+  <link href="http://bogdanrusu.io/atom.xml" rel="self"/>
+  <link href="http://bogdanrusu.io/"/>
+  <updated>2018-01-16T09:57:31+02:00</updated>
+  <id>http://bogdanrusu.io/</id>
   <author>
     <name><![CDATA[Bogdan Rusu]]></name>
     
@@ -14,10 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Test2]]></title>
+    <link href="http://bogdanrusu.io/blog/2018/01/16/test2/"/>
+    <updated>2018-01-16T09:57:19+02:00</updated>
+    <id>http://bogdanrusu.io/blog/2018/01/16/test2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Title2]]></title>
+    <link href="http://bogdanrusu.io/blog/2018/01/16/title2/"/>
+    <updated>2018-01-16T09:52:38+02:00</updated>
+    <id>http://bogdanrusu.io/blog/2018/01/16/title2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Title]]></title>
-    <link href="http://bogdanrusuio.github.io/blog/2018/01/16/title/"/>
+    <link href="http://bogdanrusu.io/blog/2018/01/16/title/"/>
     <updated>2018-01-16T09:06:13+02:00</updated>
-    <id>http://bogdanrusuio.github.io/blog/2018/01/16/title</id>
+    <id>http://bogdanrusu.io/blog/2018/01/16/title</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>

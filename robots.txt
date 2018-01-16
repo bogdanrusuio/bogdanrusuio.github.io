@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://bogdanrusuio.github.io/sitemap.xml 
+Sitemap: http://bogdanrusu.io/sitemap.xml 
