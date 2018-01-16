@@ -5,15 +5,11 @@
   {% endif %}
 </ul>
   {% if site.simple_search %}
-
-
-             <form role="search" method="get" action="{{ site.baseurl }}//search/">
-                 <input id="searchString" name="searchString"
-                        placeholder="Learn , Be a Better,  etc." type="text">
-                 <input id="searchButton" name="googleSearchName" type="button" value="Search">
-             </form>
-         
-
-
+<form action="{{ site.simple_search }}" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="sitesearch" value="{{ site.url | shorthand_url }}">
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
   {% endif %}
 {% include custom/navigation.html %}
