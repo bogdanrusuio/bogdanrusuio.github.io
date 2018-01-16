@@ -55,12 +55,28 @@
   
 </ul>
   
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="sitesearch" value="bogdanrusu.io">
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
+
+
+<div class="grid" id="searchBar">
+     <div>
+         <div id="search">
+             <form role="search" method="get" action="//search/">
+                 <input id="searchString" name="searchString"
+                        placeholder="Learn Ionic, Be a Better Developer, etc." type="text">
+                 <input id="searchButton" name="googleSearchName" type="button" value="Search">
+             </form>
+         </div>
+
+         <div id="archives">
+             browse by <a title="The complete archive of 's Blog by category"
+                    href="//categoryview">category</a>
+             or <a title="The complete archive of 's Blog by month"
+                   href="//monthview">date</a>
+         </div>
+     </div>
+ </div>
+
+
   
 <ul class="main-navigation">
   
