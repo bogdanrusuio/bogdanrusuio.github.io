@@ -4,16 +4,16 @@
     <li><a href="{{ site.subscribe_email }}" rel="subscribe-email" title="subscribe via email">Email</a></li>
   {% endif %}
 </ul>
-  {% if site.simple_search %}
 
 
-             <form role="search" method="get" action="{{ site.baseurl }}//search/">
+
+             <form role="search" method="get" action="{{ site.url }}/search">
                  <input id="searchString" name="searchString"
-                        placeholder="Learn , Be a Better,  etc." type="text">
+                        placeholder="Search" type="text">
                  <input id="searchButton" name="googleSearchName" type="button" value="Search">
              </form>
          
 
 
-  {% endif %}
+
 {% include custom/navigation.html %}
