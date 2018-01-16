@@ -5,11 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Welcome! - Bogdan's Blog</title>
+  <title>About Me - Bogdan's Blog</title>
   <meta name="author" content="Bogdan Rusu">
 
   
-  <meta name="description" content="Welcome! Hello everyone and welcome to my blog. I wanted to find a way to share topics that interest me and hopefully entertain at least one or two &hellip;">
+  <meta name="description" content=" About Me About Me A little something about me. Tweet Recent Posts ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="https://bogdanrusu.io/blog/aboutme/">
+  <link rel="canonical" href="https://bogdanrusu.io/blog/aboutme/.ori">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Bogdan's Blog" type="application/atom+xml">
@@ -81,33 +81,14 @@
 <article role="article">
   
   <header>
-    <h1 class="entry-title">Welcome!</h1>
+    <h1 class="entry-title">About Me</h1>
     
   </header>
   
-  <p>
-Hello everyone and welcome to my blog. I wanted to find a way to share topics that interest me and hopefully entertain at least one or two people out on the Internet (counting myself).
-</p>
-
-
-
-<div id="blog-aboutme">
+  <div id="blog-aboutme">
 	<section>
-		<h1>About the Author</h1>
-		
-<p><img alt="This is me" src="/images/eu.jpg" width="140" height="140" class="mt-image-right" style="float: right; margin: 0 0 20px 20px;"> I’m a thirty-something year old guy who lives in the Bucharest/Otopeni area. I’ve been here about 20 years but I grew up somewhere in SW of Romania.  </p>
-
-
-<p>
-I’m a Presales Specialist for SAP. This blog only contains my personal views, thoughts and opinions. It is not endorsed by SAP nor does it constitute any official communication of SAP. You should follow me on Twitter and Subscribe by email
-</p>
-<p>
-The tasks I solve at work provide value to a company which in turn compensates me. That compensation enables me to do the things I’m passionate or curious about. I enjoy writing about and sharing the things that interest me the most.
-My interests vary widely; I’ll narrow in on the things I’m most interested in. 
-
-
-
-		</p>
+		<h1>About Me</h1>
+		<p>A little something about me.</p>
 	</section>
 
 </div>
@@ -119,7 +100,7 @@ My interests vary widely; I’ll narrow in on the things I’m most interested i
       
         <div class="sharing">
   
-  <a href="//twitter.com/share" class="twitter-share-button" data-url="https://bogdanrusu.io/blog/aboutme/index.html" data-via="bogdanrusublog" data-counturl="https://bogdanrusu.io/blog/aboutme/index.html" >Tweet</a>
+  <a href="//twitter.com/share" class="twitter-share-button" data-url="https://bogdanrusu.io/blog/aboutme/index.html.ori" data-via="bogdanrusublog" data-counturl="https://bogdanrusu.io/blog/aboutme/index.html.ori" >Tweet</a>
   
   
   
