@@ -4,7 +4,7 @@
   <title><![CDATA[Bogdan's Blog]]></title>
   <link href="http://bogdanrusuio.github.io/atom.xml" rel="self"/>
   <link href="http://bogdanrusuio.github.io/"/>
-  <updated>2018-01-16T08:34:38+02:00</updated>
+  <updated>2018-01-16T09:06:40+02:00</updated>
   <id>http://bogdanrusuio.github.io/</id>
   <author>
     <name><![CDATA[Bogdan Rusu]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://bogdanrusuio.github.io/blog/2018/01/16/title/"/>
+    <updated>2018-01-16T09:06:13+02:00</updated>
+    <id>http://bogdanrusuio.github.io/blog/2018/01/16/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
